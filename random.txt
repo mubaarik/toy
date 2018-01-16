@@ -4,4 +4,9 @@ ihIAFJHSAJHFSAKJHFKKASFHASHFDFJGJSAHFGJSFHGFUYERIOIWFBF
 ihIAFJHSAJHFSAKJHAFKJHAFKJHAGFHKAHGKHAFDKJAHHJAKDGFH
 >>>>>>> Stashed changes
 
+<<<<<<< HEAD
 adkjhkasjhfksajfhkshk
+=======
+
+third change
+>>>>>>> random files again
